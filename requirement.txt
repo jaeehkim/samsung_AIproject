@@ -1,0 +1,25 @@
+# Core
+streamlit==1.51.0
+pandas==2.3.3
+python-dotenv==1.2.1
+requests==2.32.5
+
+# LangChain family (0.3.x line)
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-core==0.3.18
+langchain-openai==0.2.9
+langchain-text-splitters==0.3.2
+
+# Vector store
+faiss-cpu==1.13.0
+
+# Document processing
+pypdf==6.4.0
+unstructured==0.18.21
+python-docx==1.2.0
+olefile==0.47
+pillow>=11.3.0          # 이미 12.0.0 설치되어 있으면 그대로 사용
+
+# Magic (macOS)
+python-magic

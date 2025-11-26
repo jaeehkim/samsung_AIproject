@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0c4da2"       # 기본 포인트 색
+backgroundColor = "#ffffff"    # 전체 배경색
+secondaryBackgroundColor = "#ffffff"   # 사이드바/박스 배경색
+textColor = "#000000"          # 기본 텍스트 색
+font = "font-family: 'Pretendard', sans-serif !important;"            # 글꼴 (["sans serif", "serif", "monospace"])
